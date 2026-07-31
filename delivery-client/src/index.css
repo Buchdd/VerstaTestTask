@@ -1,0 +1,6 @@
+/* Custom styles overrides if needed */
+body {
+  min-height: 100vh;
+  background-color: #0f172a !important;
+  color: #f8fafc;
+}
